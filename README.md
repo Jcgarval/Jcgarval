@@ -1,4 +1,4 @@
-# ¡Hola! Soy [José Carlos] 👋
+# ¡Hola! Soy José Carlos 👋
 
 Soy un desarrollador en formación apasionado por la tecnología. Actualmente estoy construyendo mis bases en programación y documentando mi proceso de aprendizaje.
 
@@ -12,4 +12,4 @@ Soy un desarrollador en formación apasionado por la tecnología. Actualmente es
 - Construir mis primeros proyectos funcionales.
 
 ## 📫 Cómo contactarme
-- **Email:** [Tu correo electrónico]
+- **Email:** jcgarciavaldelvira@gmail.com
