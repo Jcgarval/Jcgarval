@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy [José Carlos] 👋
 
-<!--
-**Jcgarval/Jcgarval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador en formación apasionado por la tecnología. Actualmente estoy construyendo mis bases en programación y documentando mi proceso de aprendizaje.
 
-Here are some ideas to get you started:
+## 🐍 Lo que estoy aprendiendo
+- **Lenguaje principal:** Python
+- Enfocado en entender la lógica de programación y la creación de scripts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Mis objetivos actuales
+- Dominar los fundamentos de Python.
+- Resolver retos de código y automatizar tareas pequeñas.
+- Construir mis primeros proyectos funcionales.
+
+## 📫 Cómo contactarme
+- **Email:** [Tu correo electrónico]
