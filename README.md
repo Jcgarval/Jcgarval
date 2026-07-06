@@ -1,18 +1,21 @@
 # ¡Hola! Soy José Carlos 👋
 
-Soy un desarrollador en formación apasionado por la tecnología. Actualmente estoy construyendo mis bases en programación y documentando mi proceso de aprendizaje.
+Desarrollador de software multiplataforma y técnico de sistemas. Me enfoco en la creación de aplicaciones estructuradas, la automatización de procesos y el desarrollo backend. Busco siempre escribir código limpio, eficiente y construir soluciones que resuelvan problemas reales.
 
-## 🌱 Lo que estoy aprendiendo
+## 🛠️ Stack Tecnológico y Habilidades
 
-* **Python:** Enfocado en entender la lógica de programación, creación de scripts y automatización.
-* **Java:** Aprendiendo las bases de la Programación Orientada a Objetos (POO) y el desarrollo estructurado.
-* **Bash:** Desarrollando scripts para la automatización en terminal y gestión del sistema.
+* **Python:** Desarrollo backend, creación de APIs, web scraping y automatización de procesos.
+* **Java:** Desarrollo de aplicaciones robustas y diseño basado en Programación Orientada a Objetos (POO).
+* **JavaScript:** Creación de interactividad en el lado del cliente e integración con servicios backend.
+* **Bash & Sistemas:** Scripting avanzado en terminal para la administración de sistemas y automatización de despliegues.
 
-## 🚀 Mis objetivos actuales
+## 🚀 Áreas de Enfoque y Objetivos
 
-* Dominar los fundamentos de Python, Java y Bash.
-* Resolver retos de código y automatizar tareas cotidianas.
-* Construir mis primeros proyectos funcionales independientes o combinando estas herramientas.
+* Desarrollo e implementación de arquitecturas backend escalables.
+* Creación de herramientas internas y scripts para optimizar tareas operativas.
+* Resolución de retos lógicos y desarrollo de proyectos integrales (End-to-End).
 
-## 📫 Cómo contactarme
-- **Email:** jcgarciavaldelvira@gmail.com
+## 📫 Contacto
+
+* **Email:** jcgarciavaldelvira@gmail.com
+* **LinkedIn:** [www.linkedin.com/in/josecgarval]
