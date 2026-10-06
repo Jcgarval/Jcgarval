@@ -49,6 +49,4 @@ App nativa en Kotlin que consume la API: reserva de citas con las horas libres c
 ## Contacto
 
 - LinkedIn: [linkedin.com/in/josecgarval](https://www.linkedin.com/in/josecgarval)
-<!-- Si quieres que tu correo aparezca en tu perfil, quita las marcas de comentario de la línea siguiente:
 - Correo: tu-correo@ejemplo.com
--->
